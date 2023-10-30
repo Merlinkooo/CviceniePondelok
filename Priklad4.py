@@ -6,3 +6,4 @@ print ('a =', a)
 print('b = ', b)
 premenna = 'prvyriadok\ndruhyriadok\ntretiriadok'
 print(premenna)
+print("Dieťa")

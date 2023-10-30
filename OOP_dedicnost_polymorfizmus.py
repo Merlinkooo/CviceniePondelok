@@ -5,7 +5,7 @@ class Zviera:
         self.vek = vek
 
 
-class Pes(Zviera)
+class Pes(Zviera):
     def __init__(self, meno):
         self.meno = meno
         
